@@ -1,0 +1,3 @@
+<?php
+//000000000000a:23:{s:10:"website_id";s:1:"1";s:5:"title";s:18:"开源红酒商城";s:4:"logo";s:28:"upload/common/1510991151.png";s:8:"web_desc";s:18:"开源红酒商场";s:9:"key_words";s:0:"";s:7:"web_icp";s:3:"123";s:11:"style_id_pc";s:1:"1";s:11:"web_address";s:12:"浙江杭州";s:10:"web_qrcode";s:47:"public/static/images/default_img_url/qrcode.png";s:7:"web_url";s:20:"http://www.baidu.com";s:9:"web_email";s:3:"123";s:9:"web_phone";s:13:"0571-88880571";s:6:"web_qq";s:3:"123";s:10:"web_weixin";s:3:"123";s:10:"web_status";s:1:"1";s:11:"third_count";s:0:"";s:12:"close_reason";s:57:"对不起，牛酷商城维护中，大家敬请期待...";s:10:"wap_status";s:1:"1";s:14:"style_id_admin";s:1:"4";s:11:"create_time";s:10:"1477452112";s:11:"modify_time";s:10:"1510992026";s:8:"url_type";s:1:"0";s:15:"web_popup_title";s:0:"";}
+?>
